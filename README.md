@@ -17,7 +17,7 @@ So here are the answers to all such questions. It's not only limited to Mechanic
     b. Predictive Analysis  
     1.	Based on historical data predict the future [Nature is difficult to predict]  
     2.	Tools  
-        a.	R, Python, Rapid Miner, Orange, SAS, WEKA  
+        a.	R, Python, Rapid Miner, Orange, SAS, WEKA, PyTorch, TensorFlow  
     3.	Techniques  
         a.	Regression, Support Vector Machine (SVM), Random Forest, Decision Tree, Adaboost, Adabag, Naïve Bayes,   
               K Means Classification and Regression Tree (CART), Neural Network.  
